@@ -4,7 +4,7 @@ bio:                '한양대 에리카 재학 중'
 description:        "."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/DSC00706.jpg'
+logo:               'assets/img/giud.PNG'
 background:         'assets/img/20180804_130010.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
